@@ -31,13 +31,13 @@ Save and exit. Your drive will now automatically mount.
 Coming Soon
 Stay tuned for more updates and new features in future versions!
 
-Need Help?
+## Need Help?
 Feel free to reach out for advice or assistance:
 
-X (Twitter): @nardo_75
+**X (Twitter):** @nardo_75
 
-Instagram: @nardo75
+**Instagram:** @nardo75
 
 
 
-Don't forget to hit the ⭐ if you like this repo.
+**Don't forget to hit the ⭐ if you like this repo.**

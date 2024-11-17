@@ -21,7 +21,7 @@
    sudo blkid /dev/sda1
 Edit the fstab configuration file:
 bash
-Code kopieren
+Code copy
 sudo nano /etc/fstab
 Add the following line, replacing your-uuid with your USB drive’s UUID:
 text

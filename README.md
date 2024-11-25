@@ -1,5 +1,9 @@
 # PreBuild RetroPie v01.03 by nardo75
 
+# DOWNLOAD HERE:
+The .img is on my mega, bc it's too big for github: [Download-Prebuild_RetroPie_byNardo75](https://example.com/meinedatei)
+
+
 ## Features
 - **Username:** `derschalker`  
 - **Password:** `changeme`  

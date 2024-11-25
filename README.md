@@ -17,14 +17,15 @@ The .img is on my mega, bc it's too big for github: [Download-Prebuild_RetroPie_
 ## USB Drive Mount Instructions
 1. Find the UUID of your USB drive:  
    ```bash
-   sudo blkid /dev/sda1
-Edit the fstab configuration file:
+     sudo blkid /dev/sda1
+   ```
+2. Edit the fstab configuration file:
   ```bash
-  sudo nano /etc/fstab
+    sudo nano /etc/fstab
   ```
-Add the following line, replacing your-uuid with your USB drive’s UUID:
+3. Add the following line, replacing your-uuid with your USB drive’s UUID:
   ```bash
-UUID=your-uuid /home/$USER/RetroPie/roms ext4 defaults 0 2
+    UUID=your-uuid /home/$USER/RetroPie/roms ext4 defaults 0 2
   ```
 Save and exit. Your drive will now automatically mount.
 
@@ -39,10 +40,12 @@ Feel free to reach out for advice or assistance:
 **Instagram:** @nardo75
 
 
-
+##
 
 Best regards,
-nardo75
+Nardo75
+
+##
 
 **Don't forget to hit the ⭐ if you like this repo.**
 

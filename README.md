@@ -10,8 +10,8 @@ The .img is on my mega, bc it's too big for github: [Download-Prebuild_RetroPie_
 - All official RetroPie repositories pre-installed.  
 - **RetroPie-Manager-Plus** is installed and accessible via:  
   [http://your.rpi.ip.here:8000](http://your.rpi.ip.here:8000).  
-- **PSX (PlayStation)** support with BIOS pre-configured.  
-- **NDS (Nintendo DS)** support with BIOS pre-configured.  
+- **PSX (PlayStation)** pre-configured.  
+- **NDS (Nintendo DS)** pre-configured.  
 - Automatic USB drive mounting for `/home/$USER/RetroPie/roms` using `fstab`.
 
 ## USB Drive Mount Instructions

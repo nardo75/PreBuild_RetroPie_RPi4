@@ -33,3 +33,7 @@ Best regards,
 nardo75
 
 **Don't forget to hit the ⭐ if you like this repo.**
+
+![GitHub Stars](https://img.shields.io/github/stars/nardo75/PreBuild_RetroPie_RPi4?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/nardo75/PreBuild_RetroPie_RPi4?style=social)
+![GitHub Contributors](https://img.shields.io/github/contributors/nardo75/PreBuild_RetroPie_RPi4)

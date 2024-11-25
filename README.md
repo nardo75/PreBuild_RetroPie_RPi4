@@ -15,11 +15,16 @@
    ```bash
    sudo blkid /dev/sda1
 Edit the fstab configuration file:
-sudo nano /etc/fstab
+  ```bash
+  sudo nano /etc/fstab
+  ```
 Add the following line, replacing your-uuid with your USB drive’s UUID:
+  ```bash
 UUID=your-uuid /media/ssd ext4 defaults 0 2
+  ```
 Save and exit. Your drive will now automatically mount.
-Coming Soon
+
+## Coming Soon
 Stay tuned for more updates and new features in future versions!
 
 Need Help?
@@ -28,6 +33,7 @@ Feel free to reach out for advice or assistance:
 **X (Twitter):** @nardo_75
 
 **Instagram:** @nardo75
+
 
 Best regards,
 nardo75
